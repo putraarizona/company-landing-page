@@ -1,5 +1,5 @@
-#Live Demo
-company-landing-page-suitmedia.netlify.app
+# Live Demo
+[company-landing-page-suitmedia.netlify.app](https://company-landing-page-suitmedia.netlify.app)
 
 # Getting Started with Create React App
 
